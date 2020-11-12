@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c5947c90-6891-43ea-95a6-9e26ca0d2894" name="Default Changelist" comment="Push">
-      <change beforePath="$PROJECT_DIR$/.idea/HTML.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/HTML.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/h01/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/h01/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="c5947c90-6891-43ea-95a6-9e26ca0d2894" name="Default Changelist" comment="Push" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,7 +47,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605169174021</updated>
-      <workItem from="1605169175050" duration="2720000" />
+      <workItem from="1605169175050" duration="3042000" />
     </task>
     <task id="LOCAL-00001" summary="Push">
       <created>1605169995012</created>
@@ -95,7 +91,35 @@
       <option name="project" value="LOCAL" />
       <updated>1605171262639</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Push">
+      <created>1605172070146</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1605172070147</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Push">
+      <created>1605172140498</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1605172140498</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Push">
+      <created>1605172176019</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1605172176019</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Push">
+      <created>1605172194163</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1605172194163</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
