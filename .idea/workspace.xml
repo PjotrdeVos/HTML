@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c5947c90-6891-43ea-95a6-9e26ca0d2894" name="Default Changelist" comment="Push">
+      <change beforePath="$PROJECT_DIR$/.idea/HTML.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/HTML.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/h01/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/h01/index.html" afterDir="false" />
     </list>
@@ -39,6 +40,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -49,7 +51,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605169174021</updated>
-      <workItem from="1605169175050" duration="1889000" />
+      <workItem from="1605169175050" duration="2720000" />
     </task>
     <task id="LOCAL-00001" summary="Push">
       <created>1605169995012</created>
@@ -79,7 +81,21 @@
       <option name="project" value="LOCAL" />
       <updated>1605170519418</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Push">
+      <created>1605171177296</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1605171177296</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Push">
+      <created>1605171262639</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1605171262639</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -102,6 +118,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="594" y="117" key="Github.UntrackedFilesDialog/0.0.1536.824@0.0.1536.824" timestamp="1605169709249" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1605171896988">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1605171896988" />
     <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1605170525834">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
