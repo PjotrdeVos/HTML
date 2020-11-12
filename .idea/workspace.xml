@@ -53,7 +53,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605169174021</updated>
-      <workItem from="1605169175050" duration="3042000" />
+      <workItem from="1605169175050" duration="3347000" />
     </task>
     <task id="LOCAL-00001" summary="Push">
       <created>1605169995012</created>
@@ -125,7 +125,21 @@
       <option name="project" value="LOCAL" />
       <updated>1605172194163</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Push">
+      <created>1605172266622</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1605172266622</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Push">
+      <created>1605172405267</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1605172405267</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -148,13 +162,13 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="594" y="117" key="Github.UntrackedFilesDialog/0.0.1536.824@0.0.1536.824" timestamp="1605169709249" />
-    <state x="277" y="57" key="SettingsEditor" timestamp="1605171896988">
+    <state x="277" y="57" key="SettingsEditor" timestamp="1605172525114">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1605171896988" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1605170525834">
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1605172525114" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1605172408403">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1605170525834" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1605172408403" />
   </component>
 </project>
