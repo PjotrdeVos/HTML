@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="StyleSheet.css">
+    <meta charset="UTF-8">
+    <title>Hoofdstuk 5</title>
+</head>
+<body>
+
+<form action="http://www.savatarian.com/html5/form.php" method="get">
+    <ul>
+        <li>
+            <h2>Burton Education</h2>
+            <span class="verplicht">* Verplicht veld</span>
+        </li>
+        <li>
+            <label for="Voornaam"> Voornaam:</label>
+            <input type="text" name="Voornaam" id="Voornaam" required>
+        </li>
+        <li>
+            <label for="Achternaam">Achternaam:</label>
+            <input type="text" name="Achternaam" id="Achternaam" required>
+        </li>
+        <li>
+            <input type="radio" name="Geslacht" value="man"/>
+            &nbsp;Man
+        </li>
+        <li>
+            <input type="radio" name="Geslacht" value="vrouw"/>
+            &nbsp;Vrouw
+        </li>
+        <li>
+            <label>Kleur oog</label><select name="kleur-ogen">
+                <option>Groen</option>
+                <option>Blauw</option>
+                <option>Bruin</option>
+            </select>
+        </li>
+        <li>
+            <label for="Birth">Date of birth</label>
+            <input type="date" id="Birth" name="Date of birth">
+        </li>
+        <li>
+            <label for=textarea>Text Area</label>
+            <input type="text" id="textarea" name="Text Area">
+        </li>
+        <li>
+            <label for="CheckBox">Hamburger</label>
+            <input type="checkbox" id="CheckBox" name="Check box">
+        </li>
+        <li>
+            <label for="CheckBox">Kipnugget</label>
+            <input type="checkbox" id="CheckBox" name="Check box">
+        </li>
+        <li>
+            <label for="CheckBox">Pizza</label>
+            <input type="checkbox" id="CheckBox" name="Check box">
+        </li>
+
+        <li>
+            <input type="submit" name="Knop">
+        </li>
+        <li>
+            <button type="button">Cancel</button>
+        </li>
+    </ul>
+</form>
+
+</body>
+</html>
