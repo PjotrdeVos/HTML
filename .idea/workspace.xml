@@ -1,9 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="c5947c90-6891-43ea-95a6-9e26ca0d2894" name="Default Changelist" comment="Push">
+      <change afterPath="$PROJECT_DIR$/h03/StyleSheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h04/Foto's/elektriciteit.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h04/Foto's/wilkens_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h04/Hoofdstuk4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h04/Stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h05/Formulier.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/h01/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/h01/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h03/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/h03/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h04/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/h05/Login.html" beforeDir="false" afterPath="$PROJECT_DIR$/h05/Login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h05/StyleSheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/h05/StyleSheet.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h05/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/h05/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h06/a.php" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +45,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="CSS File" />
         <option value="HTML File" />
       </list>
     </option>
@@ -24,7 +54,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1kBLjd5WqGcMmDJyyROIWc9yxHK" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -33,20 +65,46 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/PWP1" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\pjotr\PhpstormProjects\HTML\ho2\img" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\pjotr\PhpstormProjects\HTML\h04\Foto's" />
+      <recent name="C:\Users\pjotr\PhpstormProjects\HTML\h07\img" />
+      <recent name="C:\Users\pjotr\PhpstormProjects\HTML\h05\img" />
       <recent name="C:\Users\pjotr\PhpstormProjects\HTML\h01" />
       <recent name="C:\Users\pjotr\PhpstormProjects\HTML\img" />
     </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.html (2)">
+    <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML/h04/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html (2)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML/h05/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/HTML/h03/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html (2)" />
+        <item itemvalue="JavaScript Debug.index.html (1)" />
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -57,6 +115,27 @@
       <option name="presentableId" value="Default" />
       <updated>1605169174021</updated>
       <workItem from="1605169175050" duration="4233000" />
+      <workItem from="1605261527131" duration="1524000" />
+      <workItem from="1605604176522" duration="4152000" />
+      <workItem from="1605685433825" duration="605000" />
+      <workItem from="1605955798768" duration="1525000" />
+      <workItem from="1606123416087" duration="3920000" />
+      <workItem from="1606211050889" duration="715000" />
+      <workItem from="1606289654228" duration="3417000" />
+      <workItem from="1606734096330" duration="185000" />
+      <workItem from="1606734317722" duration="1199000" />
+      <workItem from="1606894855527" duration="2876000" />
+      <workItem from="1606898179362" duration="756000" />
+      <workItem from="1606956970877" duration="3897000" />
+      <workItem from="1607094300429" duration="420000" />
+      <workItem from="1607499775046" duration="4507000" />
+      <workItem from="1607521524954" duration="1179000" />
+      <workItem from="1607932253637" duration="1059000" />
+      <workItem from="1607935111769" duration="8192000" />
+      <workItem from="1609836897140" duration="2544000" />
+      <workItem from="1609923246156" duration="5595000" />
+      <workItem from="1610013445427" duration="788000" />
+      <workItem from="1610019422045" duration="618000" />
     </task>
     <task id="LOCAL-00001" summary="Push">
       <created>1605169995012</created>
@@ -163,36 +242,180 @@
       <option name="project" value="LOCAL" />
       <updated>1605173082128</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Push">
+      <created>1605607799581</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1605607799581</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Push">
+      <created>1605607885445</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1605607885445</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Push">
+      <created>1605607993522</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1605607993522</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Push">
+      <created>1605608124359</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1605608124359</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Push">
+      <created>1605608191773</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1605608191773</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Push">
+      <created>1605608262401</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1605608262401</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Push">
+      <created>1606125546316</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1606125546316</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Push">
+      <created>1606735080699</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1606735080699</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Push">
+      <created>1606735147549</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1606735147549</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Push">
+      <created>1606960351408</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1606960351408</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Push">
+      <created>1606960460908</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1606960460908</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Push">
+      <created>1606960555784</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1606960555784</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Push">
+      <created>1607521564506</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1607521564506</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Push">
+      <created>1607521582811</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1607521582811</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Push">
+      <created>1607521615380</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1607521615380</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Push">
+      <created>1607521715471</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1607521715471</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Push">
+      <created>1607521767160</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1607521767160</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Push">
+      <created>1607522145664</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1607522145664</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Push">
+      <created>1607522461485</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1607522461485</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Push">
+      <created>1607522650805</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1607522650805</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Push">
+      <created>1607941541251</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1607941541251</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Push">
+      <created>1607941619994</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1607941619994</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Push" />
     <option name="LAST_COMMIT_MESSAGE" value="Push" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1605170863035">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1605170863035" />
-    <state x="647" y="310" key="Github.ShareDialog" timestamp="1605169637531">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="647" y="310" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1605169637531" />
-    <state x="594" y="117" key="Github.UntrackedFilesDialog" timestamp="1605169709249">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="594" y="117" key="Github.UntrackedFilesDialog/0.0.1536.824@0.0.1536.824" timestamp="1605169709249" />
-    <state x="277" y="57" key="SettingsEditor" timestamp="1605172730576">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1605172730576" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1605173084151">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1605173084151" />
   </component>
 </project>
