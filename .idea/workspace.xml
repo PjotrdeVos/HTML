@@ -20,8 +20,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c5947c90-6891-43ea-95a6-9e26ca0d2894" name="Default Changelist" comment="Push">
+      <change afterPath="$PROJECT_DIR$/CSS Challenge/Archeologie/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS Challenge/Backpacking/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS Challenge/Bergbeklimmen/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS Challenge/Lente/StyleSheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS Challenge/Lente/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS Challenge/StyleSheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS Challenge/Veder kijken/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS Challenge/Wildcamperen/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS Challenge/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/h07/StyleSheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/h07/StyleSheet.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,8 +43,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -70,11 +79,11 @@
       <recent name="C:\Users\pjotr\PhpstormProjects\HTML\ho2\img" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\pjotr\PhpstormProjects\HTML\h01\img" />
       <recent name="C:\Users\pjotr\PhpstormProjects\HTML\h04\Foto's" />
       <recent name="C:\Users\pjotr\PhpstormProjects\HTML\h07\img" />
       <recent name="C:\Users\pjotr\PhpstormProjects\HTML\h05\img" />
       <recent name="C:\Users\pjotr\PhpstormProjects\HTML\h01" />
-      <recent name="C:\Users\pjotr\PhpstormProjects\HTML\img" />
     </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.index.html (2)">
@@ -128,6 +137,13 @@
       <workItem from="1610350634806" duration="29000" />
       <workItem from="1610352093811" duration="1017000" />
       <workItem from="1611224579563" duration="623000" />
+      <workItem from="1612863901773" duration="376000" />
+      <workItem from="1612864293792" duration="14000" />
+      <workItem from="1613046072423" duration="5736000" />
+      <workItem from="1613375246949" duration="6440000" />
+      <workItem from="1613461911638" duration="613000" />
+      <workItem from="1613553289159" duration="11000" />
+      <workItem from="1613647595730" duration="2197000" />
     </task>
     <task id="LOCAL-00001" summary="Push">
       <created>1605169995012</created>
@@ -423,7 +439,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610353077024</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="Push">
+      <created>1612864213742</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1612864213742</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
